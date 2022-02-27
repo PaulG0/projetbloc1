@@ -1,0 +1,11 @@
+body {
+	background-color: gray;
+}
+.boss{
+	display: flex;
+	justify-items: center;
+	align-items:center;
+	color: darkred;
+	font-size: 30px;
+	font-weight: 700;
+}
